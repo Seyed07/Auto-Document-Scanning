@@ -1,4 +1,4 @@
-# Document Scanner
+# Auto Document Scanner
 
 A Python Jupyter Notebook project for **automatic document detection and scanning**, using OpenCV and image processing techniques. This tool turns photos of papers, receipts, and documents into clear, top-down scanned images by automatically detecting edges and applying a perspective transformation.
 
